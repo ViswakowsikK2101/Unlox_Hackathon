@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow Dashboard",
+  "description": "A high-fidelity dashboard for student productivity, integrating WhatsApp, Google Calendar, and AI automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
